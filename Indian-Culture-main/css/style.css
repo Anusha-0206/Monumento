@@ -256,15 +256,15 @@ section#slides_parent {
 }
 
 .slide_5 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/recipe_slides/Ratnagiri-Buddhist.jpeg;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/recipe_slides/Ratnagiri-Buddhist.jpeg);
 }
 
 .slide_6 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/recipe_slides/chilika lake.jpeg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/recipe_slides/chilika\ lake.jpeg);
 }
 
 .slide_7 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/recipe_slides/similipal Park.jpeg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/recipe_slides/similipal\ Park.jpeg);
 }
 
 .slide_info {
