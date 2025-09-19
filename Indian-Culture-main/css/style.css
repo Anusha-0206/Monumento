@@ -684,6 +684,7 @@ div#blog-par {
 
 .blog-img {
     position: relative;
+    width: 100%;
 }
 
 /*.blog-img:before {
